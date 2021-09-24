@@ -106,20 +106,7 @@ export default function App() {
           ))}
         </ul>
       </div>
-      <footer className="container footer">
-        <h3>Contact Me</h3>
-        <div className="links-container">
-          <a className="links" href="https://www.github.com/Vishnu-Aithal">
-            Github
-          </a>
-          <a className="links" href="https://www.twitter.com/Vishnu_Aithal">
-            Twitter
-          </a>
-          <a className="links" href="https://www.linkedin.com/in/vishnu-aithal">
-            linkedin
-          </a>
-        </div>
-      </footer>
+
     </div>
   );
 }
