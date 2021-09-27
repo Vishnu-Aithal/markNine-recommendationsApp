@@ -1,5 +1,5 @@
 # markNine-recommendationsApp
-An App which recommends weekennd getaway places near Bangalore - created with CodeSandbox
+An App which recommends weekend getaway places near Bangalore - created with CodeSandbox
 
 ---
 > ### Tech Stack Used:
