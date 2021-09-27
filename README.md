@@ -1,2 +1,19 @@
 # markNine-recommendationsApp
-Created with CodeSandbox
+An App which recommends weekennd getaway places near Bangalore - created with CodeSandbox
+
+---
+> ### Tech Stack Used:
+- CodeSandBox
+- ReactJS
+- HTML5
+- CSS3
+---
+> ### Features:
+- 3 Items per type
+- Mobile Responsive
+
+---
+> ### How to use:
+1. Click on the type of destination to get the list
+
+---
