@@ -61,11 +61,14 @@ const placesDB = {
         "This unique amusement park in Bangalore is strewn with snow animals, igloos, slides and a beautifully-designed snow castle.",
       rating: "4/5"
     }
+  ],
+  "Select a Category": [
+    
   ]
 };
 
 export default function App() {
-  const [list, setList] = useState("Hills");
+  const [list, setList] = useState("Select a Category");
 
   return (
     <div className="App">
