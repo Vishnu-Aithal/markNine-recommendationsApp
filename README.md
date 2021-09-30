@@ -17,3 +17,6 @@ An App which recommends weekend getaway places near Bangalore - created with Cod
 1. Click on the type of destination to get the list
 
 ---
+
+> ## Live Link:
+- https://d5i92.csb.app/
